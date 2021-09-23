@@ -1,0 +1,841 @@
+--------------- UKF Log ---------------
+
+
+--------------- Initilisation with Lidar Data ---------------
+LiDAR data input: 0
+
+Data: -11.7982, -0.0824619
+--------------- Update with Radar Log ---------------
+Radar data input: 0
+1.01043
+--------------- Update with Radar Log ---------------
+Radar data input: 33333
+1.366
+--------------- Update with Radar Log ---------------
+Radar data input: 66666
+1.95645
+--------------- Update with Radar Log ---------------
+Radar data input: 100000
+2.10723
+--------------- Update with Radar Log ---------------
+Radar data input: 133333
+1.08788
+--------------- Update with Radar Log ---------------
+Radar data input: 166666
+3.50242
+--------------- Update with Radar Log ---------------
+Radar data input: 200000
+1.99286
+--------------- Update with Radar Log ---------------
+Radar data input: 233333
+1.08921
+--------------- Update with Radar Log ---------------
+Radar data input: 266666
+6.25532
+--------------- Update with Radar Log ---------------
+Radar data input: 300000
+1.48273
+--------------- Update with Radar Log ---------------
+Radar data input: 333333
+4.70567
+--------------- Update with Radar Log ---------------
+Radar data input: 366666
+3.34861
+--------------- Update with Radar Log ---------------
+Radar data input: 400000
+1.12928
+--------------- Update with Radar Log ---------------
+Radar data input: 433333
+2.02512
+--------------- Update with Radar Log ---------------
+Radar data input: 466666
+4.87051
+--------------- Update with Radar Log ---------------
+Radar data input: 500000
+2.53688
+--------------- Update with Radar Log ---------------
+Radar data input: 533333
+1.46713
+--------------- Update with Radar Log ---------------
+Radar data input: 566666
+1.65502
+--------------- Update with Radar Log ---------------
+Radar data input: 600000
+4.15731
+--------------- Update with Radar Log ---------------
+Radar data input: 633333
+2.62551
+--------------- Update with Radar Log ---------------
+Radar data input: 666666
+5.94012
+--------------- Update with Radar Log ---------------
+Radar data input: 700000
+1.17232
+--------------- Update with Radar Log ---------------
+Radar data input: 733333
+3.17437
+--------------- Update with Radar Log ---------------
+Radar data input: 766666
+1.60152
+--------------- Update with Radar Log ---------------
+Radar data input: 800000
+1.65694
+--------------- Update with Radar Log ---------------
+Radar data input: 833333
+2.80502
+--------------- Update with Radar Log ---------------
+Radar data input: 866666
+2.22836
+--------------- Update with Radar Log ---------------
+Radar data input: 900000
+2.37289
+--------------- Update with Radar Log ---------------
+Radar data input: 933333
+5.66913
+--------------- Update with Radar Log ---------------
+Radar data input: 966666
+3.84492
+--------------- Update with Radar Log ---------------
+Radar data input: 1000000
+2.54728
+--------------- Update with Radar Log ---------------
+Radar data input: 1033333
+0.225822
+--------------- Update with Radar Log ---------------
+Radar data input: 1066666
+1.27879
+--------------- Update with Radar Log ---------------
+Radar data input: 1100000
+4.49227
+--------------- Update with Radar Log ---------------
+Radar data input: 1133333
+0.591603
+--------------- Update with Radar Log ---------------
+Radar data input: 1166666
+2.73709
+--------------- Update with Radar Log ---------------
+Radar data input: 1200000
+5.984
+--------------- Update with Radar Log ---------------
+Radar data input: 1233333
+4.84763
+--------------- Update with Radar Log ---------------
+Radar data input: 1266666
+6.6133
+--------------- Update with Radar Log ---------------
+Radar data input: 1300000
+7.85067
+--------------- Update with Radar Log ---------------
+Radar data input: 1333333
+7.89475
+--------------- Update with Radar Log ---------------
+Radar data input: 1366666
+1.19735
+--------------- Update with Radar Log ---------------
+Radar data input: 1400000
+1.97535
+--------------- Update with Radar Log ---------------
+Radar data input: 1433333
+4.57295
+--------------- Update with Radar Log ---------------
+Radar data input: 1466666
+1.0616
+--------------- Update with Radar Log ---------------
+Radar data input: 1500000
+10.6231
+--------------- Update with Radar Log ---------------
+Radar data input: 1533333
+5.58772
+--------------- Update with Radar Log ---------------
+Radar data input: 1566666
+3.53144
+--------------- Update with Radar Log ---------------
+Radar data input: 1600000
+3.77668
+--------------- Update with Radar Log ---------------
+Radar data input: 1633333
+3.36452
+--------------- Update with Radar Log ---------------
+Radar data input: 1666666
+4.08412
+--------------- Update with Radar Log ---------------
+Radar data input: 1700000
+2.68898
+--------------- Update with Radar Log ---------------
+Radar data input: 1733333
+2.87708
+--------------- Update with Radar Log ---------------
+Radar data input: 1766666
+0.346045
+--------------- Update with Radar Log ---------------
+Radar data input: 1800000
+3.91266
+--------------- Update with Radar Log ---------------
+Radar data input: 1833333
+0.961814
+--------------- Update with Radar Log ---------------
+Radar data input: 1866666
+7.11736
+--------------- Update with Radar Log ---------------
+Radar data input: 1900000
+6.93059
+--------------- Update with Radar Log ---------------
+Radar data input: 1933333
+2.57318
+--------------- Update with Radar Log ---------------
+Radar data input: 1966666
+1.49066
+--------------- Update with Radar Log ---------------
+Radar data input: 2000000
+4.62991
+--------------- Update with Radar Log ---------------
+Radar data input: 2033333
+1.54892
+--------------- Update with Radar Log ---------------
+Radar data input: 2066666
+1.84253
+--------------- Update with Radar Log ---------------
+Radar data input: 2100000
+2.41125
+--------------- Update with Radar Log ---------------
+Radar data input: 2133333
+2.28519
+--------------- Update with Radar Log ---------------
+Radar data input: 2166666
+5.88641
+--------------- Update with Radar Log ---------------
+Radar data input: 2200000
+1.61873
+--------------- Update with Radar Log ---------------
+Radar data input: 2233333
+0.59317
+--------------- Update with Radar Log ---------------
+Radar data input: 2266666
+1.02716
+--------------- Update with Radar Log ---------------
+Radar data input: 2300000
+5.4425
+--------------- Update with Radar Log ---------------
+Radar data input: 2333333
+1.87798
+--------------- Update with Radar Log ---------------
+Radar data input: 2366666
+1.41068
+--------------- Update with Radar Log ---------------
+Radar data input: 2400000
+5.93823
+--------------- Update with Radar Log ---------------
+Radar data input: 2433333
+1.57625
+--------------- Update with Radar Log ---------------
+Radar data input: 2466666
+10.6109
+--------------- Update with Radar Log ---------------
+Radar data input: 2500000
+5.61884
+--------------- Update with Radar Log ---------------
+Radar data input: 2533333
+6.62818
+--------------- Update with Radar Log ---------------
+Radar data input: 2566666
+3.69527
+--------------- Update with Radar Log ---------------
+Radar data input: 2600000
+0.486219
+--------------- Update with Radar Log ---------------
+Radar data input: 2633333
+3.46097
+--------------- Update with Radar Log ---------------
+Radar data input: 2666666
+14.5676
+--------------- Update with Radar Log ---------------
+Radar data input: 2700000
+0.775893
+--------------- Update with Radar Log ---------------
+Radar data input: 2733333
+2.36252
+--------------- Update with Radar Log ---------------
+Radar data input: 2766666
+7.41235
+--------------- Update with Radar Log ---------------
+Radar data input: 2800000
+7.2045
+--------------- Update with Radar Log ---------------
+Radar data input: 2833333
+1.12645
+--------------- Update with Radar Log ---------------
+Radar data input: 2866666
+3.97315
+--------------- Update with Radar Log ---------------
+Radar data input: 2900000
+4.42853
+--------------- Update with Radar Log ---------------
+Radar data input: 2933333
+7.12543
+--------------- Update with Radar Log ---------------
+Radar data input: 2966666
+4.06894
+--------------- Update with Radar Log ---------------
+Radar data input: 3000000
+2.69793
+--------------- Update with Radar Log ---------------
+Radar data input: 3033333
+10.7409
+--------------- Update with Radar Log ---------------
+Radar data input: 3066666
+1.3467
+--------------- Update with Radar Log ---------------
+Radar data input: 3100000
+4.94068
+--------------- Update with Radar Log ---------------
+Radar data input: 3133333
+2.10658
+--------------- Update with Radar Log ---------------
+Radar data input: 3166666
+2.20691
+--------------- Update with Radar Log ---------------
+Radar data input: 3200000
+2.59485
+--------------- Update with Radar Log ---------------
+Radar data input: 3233333
+13.3403
+--------------- Update with Radar Log ---------------
+Radar data input: 3266666
+45.8856
+--------------- Update with Radar Log ---------------
+Radar data input: 3300000
+26.2611
+--------------- Update with Radar Log ---------------
+Radar data input: 3333333
+11.7607
+--------------- Update with Radar Log ---------------
+Radar data input: 3366666
+27.8326
+--------------- Update with Radar Log ---------------
+Radar data input: 3400000
+3.96237
+--------------- Update with Radar Log ---------------
+Radar data input: 3433333
+7.91335
+--------------- Update with Radar Log ---------------
+Radar data input: 3466666
+0.0990924
+--------------- Update with Radar Log ---------------
+Radar data input: 3500000
+6.11939
+--------------- Update with Radar Log ---------------
+Radar data input: 3533333
+4.93011
+--------------- Update with Radar Log ---------------
+Radar data input: 3566666
+9.45745
+--------------- Update with Radar Log ---------------
+Radar data input: 3600000
+21.696
+--------------- Update with Radar Log ---------------
+Radar data input: 3633333
+7.47464
+--------------- Update with Radar Log ---------------
+Radar data input: 3666666
+6.19904
+--------------- Update with Radar Log ---------------
+Radar data input: 3700000
+7.48605
+--------------- Update with Radar Log ---------------
+Radar data input: 3733333
+0.453667
+--------------- Update with Radar Log ---------------
+Radar data input: 3766666
+5.11156
+--------------- Update with Radar Log ---------------
+Radar data input: 3800000
+0.659789
+--------------- Update with Radar Log ---------------
+Radar data input: 3833333
+6.48617
+--------------- Update with Radar Log ---------------
+Radar data input: 3866666
+0.683935
+--------------- Update with Radar Log ---------------
+Radar data input: 3900000
+3.39117
+--------------- Update with Radar Log ---------------
+Radar data input: 3933333
+10.0329
+--------------- Update with Radar Log ---------------
+Radar data input: 3966666
+0.375019
+--------------- Update with Radar Log ---------------
+Radar data input: 4000000
+4.66972
+--------------- Update with Radar Log ---------------
+Radar data input: 4033333
+5.04574
+--------------- Update with Radar Log ---------------
+Radar data input: 4066666
+0.704249
+--------------- Update with Radar Log ---------------
+Radar data input: 4100000
+4.73706
+--------------- Update with Radar Log ---------------
+Radar data input: 4133333
+4.83893
+--------------- Update with Radar Log ---------------
+Radar data input: 4166666
+2.5294
+--------------- Update with Radar Log ---------------
+Radar data input: 4200000
+5.17874
+--------------- Update with Radar Log ---------------
+Radar data input: 4233333
+5.90103
+--------------- Update with Radar Log ---------------
+Radar data input: 4266666
+1.63971
+--------------- Update with Radar Log ---------------
+Radar data input: 4300000
+6.3152
+--------------- Update with Radar Log ---------------
+Radar data input: 4333333
+0.753628
+--------------- Update with Radar Log ---------------
+Radar data input: 4366666
+0.820828
+--------------- Update with Radar Log ---------------
+Radar data input: 4400000
+4.00839
+--------------- Update with Radar Log ---------------
+Radar data input: 4433333
+3.77053
+--------------- Update with Radar Log ---------------
+Radar data input: 4466666
+2.72942
+--------------- Update with Radar Log ---------------
+Radar data input: 4500000
+7.61016
+--------------- Update with Radar Log ---------------
+Radar data input: 4533333
+0.758026
+--------------- Update with Radar Log ---------------
+Radar data input: 4566666
+1.12865
+--------------- Update with Radar Log ---------------
+Radar data input: 4600000
+0.186667
+--------------- Update with Radar Log ---------------
+Radar data input: 4633333
+1.74062
+--------------- Update with Radar Log ---------------
+Radar data input: 4666666
+2.42577
+--------------- Update with Radar Log ---------------
+Radar data input: 4700000
+3.94639
+--------------- Update with Radar Log ---------------
+Radar data input: 4733333
+4.47536
+--------------- Update with Radar Log ---------------
+Radar data input: 4766666
+0.905241
+--------------- Update with Radar Log ---------------
+Radar data input: 4800000
+0.570464
+--------------- Update with Radar Log ---------------
+Radar data input: 4833333
+1.38818
+--------------- Update with Radar Log ---------------
+Radar data input: 4866666
+0.399419
+--------------- Update with Radar Log ---------------
+Radar data input: 4900000
+3.45301
+--------------- Update with Radar Log ---------------
+Radar data input: 4933333
+3.48292
+--------------- Update with Radar Log ---------------
+Radar data input: 4966666
+3.0519
+--------------- Update with Radar Log ---------------
+Radar data input: 5000000
+1.02097
+--------------- Update with Radar Log ---------------
+Radar data input: 5033333
+3.06757
+--------------- Update with Radar Log ---------------
+Radar data input: 5066666
+2.11486
+--------------- Update with Radar Log ---------------
+Radar data input: 5100000
+7.55822
+--------------- Update with Radar Log ---------------
+Radar data input: 5133333
+1.87175
+--------------- Update with Radar Log ---------------
+Radar data input: 5166666
+0.717312
+--------------- Update with Radar Log ---------------
+Radar data input: 5200000
+6.2646
+--------------- Update with Radar Log ---------------
+Radar data input: 5233333
+3.82531
+--------------- Update with Radar Log ---------------
+Radar data input: 5266666
+6.71837
+--------------- Update with Radar Log ---------------
+Radar data input: 5300000
+3.08272
+--------------- Update with Radar Log ---------------
+Radar data input: 5333333
+2.34341
+--------------- Update with Radar Log ---------------
+Radar data input: 5366666
+2.33414
+--------------- Update with Radar Log ---------------
+Radar data input: 5400000
+1.19165
+--------------- Update with Radar Log ---------------
+Radar data input: 5433333
+6.28122
+--------------- Update with Radar Log ---------------
+Radar data input: 5466666
+3.69528
+--------------- Update with Radar Log ---------------
+Radar data input: 5500000
+1.30568
+--------------- Update with Radar Log ---------------
+Radar data input: 5533333
+0.918565
+--------------- Update with Radar Log ---------------
+Radar data input: 5566666
+0.901687
+--------------- Update with Radar Log ---------------
+Radar data input: 5600000
+0.97022
+--------------- Update with Radar Log ---------------
+Radar data input: 5633333
+1.67035
+--------------- Update with Radar Log ---------------
+Radar data input: 5666666
+2.56453
+--------------- Update with Radar Log ---------------
+Radar data input: 5700000
+8.54827
+--------------- Update with Radar Log ---------------
+Radar data input: 5733333
+2.8415
+--------------- Update with Radar Log ---------------
+Radar data input: 5766666
+2.1804
+--------------- Update with Radar Log ---------------
+Radar data input: 5800000
+1.24558
+--------------- Update with Radar Log ---------------
+Radar data input: 5833333
+2.65281
+--------------- Update with Radar Log ---------------
+Radar data input: 5866666
+5.31755
+--------------- Update with Radar Log ---------------
+Radar data input: 5900000
+2.53706
+--------------- Update with Radar Log ---------------
+Radar data input: 5933333
+3.68803
+--------------- Update with Radar Log ---------------
+Radar data input: 5966666
+4.18154
+--------------- Update with Radar Log ---------------
+Radar data input: 6000000
+1.73053
+--------------- Update with Radar Log ---------------
+Radar data input: 6033333
+0.784869
+--------------- Update with Radar Log ---------------
+Radar data input: 6066666
+3.29834
+--------------- Update with Radar Log ---------------
+Radar data input: 6100000
+5.22331
+--------------- Update with Radar Log ---------------
+Radar data input: 6133333
+2.39512
+--------------- Update with Radar Log ---------------
+Radar data input: 6166666
+1.31275
+--------------- Update with Radar Log ---------------
+Radar data input: 6200000
+2.98615
+--------------- Update with Radar Log ---------------
+Radar data input: 6233333
+5.14488
+--------------- Update with Radar Log ---------------
+Radar data input: 6266666
+3.67
+--------------- Update with Radar Log ---------------
+Radar data input: 6300000
+2.46557
+--------------- Update with Radar Log ---------------
+Radar data input: 6333333
+6.54016
+--------------- Update with Radar Log ---------------
+Radar data input: 6366666
+4.77177
+--------------- Update with Radar Log ---------------
+Radar data input: 6400000
+9.90282
+--------------- Update with Radar Log ---------------
+Radar data input: 6433333
+4.11133
+--------------- Update with Radar Log ---------------
+Radar data input: 6466666
+0.0715461
+--------------- Update with Radar Log ---------------
+Radar data input: 6500000
+8.96988
+--------------- Update with Radar Log ---------------
+Radar data input: 6533333
+2.10677
+--------------- Update with Radar Log ---------------
+Radar data input: 6566666
+5.65165
+--------------- Update with Radar Log ---------------
+Radar data input: 6600000
+4.2574
+--------------- Update with Radar Log ---------------
+Radar data input: 6633333
+1.06456
+--------------- Update with Radar Log ---------------
+Radar data input: 6666666
+5.50626
+--------------- Update with Radar Log ---------------
+Radar data input: 6700000
+0.305942
+--------------- Update with Radar Log ---------------
+Radar data input: 6733333
+11.563
+--------------- Update with Radar Log ---------------
+Radar data input: 6766666
+1.93252
+--------------- Update with Radar Log ---------------
+Radar data input: 6800000
+5.61489
+--------------- Update with Radar Log ---------------
+Radar data input: 6833333
+2.91114
+--------------- Update with Radar Log ---------------
+Radar data input: 6866666
+1.26277
+--------------- Update with Radar Log ---------------
+Radar data input: 6900000
+1.02496
+--------------- Update with Radar Log ---------------
+Radar data input: 6933333
+6.08033
+--------------- Update with Radar Log ---------------
+Radar data input: 6966666
+0.429578
+--------------- Update with Radar Log ---------------
+Radar data input: 7000000
+9.23015
+--------------- Update with Radar Log ---------------
+Radar data input: 7033333
+3.70285
+--------------- Update with Radar Log ---------------
+Radar data input: 7066666
+1.21656
+--------------- Update with Radar Log ---------------
+Radar data input: 7100000
+3.13178
+--------------- Update with Radar Log ---------------
+Radar data input: 7133333
+2.15812
+--------------- Update with Radar Log ---------------
+Radar data input: 7166666
+2.58812
+--------------- Update with Radar Log ---------------
+Radar data input: 7200000
+4.79662
+--------------- Update with Radar Log ---------------
+Radar data input: 7233333
+1.40454
+--------------- Update with Radar Log ---------------
+Radar data input: 7266666
+0.583069
+--------------- Update with Radar Log ---------------
+Radar data input: 7300000
+1.34005
+--------------- Update with Radar Log ---------------
+Radar data input: 7333333
+0.424295
+--------------- Update with Radar Log ---------------
+Radar data input: 7366666
+1.3791
+--------------- Update with Radar Log ---------------
+Radar data input: 7400000
+0.429795
+--------------- Update with Radar Log ---------------
+Radar data input: 7433333
+2.10054
+--------------- Update with Radar Log ---------------
+Radar data input: 7466666
+2.01592
+--------------- Update with Radar Log ---------------
+Radar data input: 7500000
+2.41927
+--------------- Update with Radar Log ---------------
+Radar data input: 7533333
+4.19554
+--------------- Update with Radar Log ---------------
+Radar data input: 7566666
+0.978347
+--------------- Update with Radar Log ---------------
+Radar data input: 7600000
+5.46518
+--------------- Update with Radar Log ---------------
+Radar data input: 7633333
+4.40773
+--------------- Update with Radar Log ---------------
+Radar data input: 7666666
+2.63724
+--------------- Update with Radar Log ---------------
+Radar data input: 7700000
+3.45176
+--------------- Update with Radar Log ---------------
+Radar data input: 7733333
+1.22284
+--------------- Update with Radar Log ---------------
+Radar data input: 7766666
+2.84481
+--------------- Update with Radar Log ---------------
+Radar data input: 7800000
+1.314
+--------------- Update with Radar Log ---------------
+Radar data input: 7833333
+4.50144
+--------------- Update with Radar Log ---------------
+Radar data input: 7866666
+4.48019
+--------------- Update with Radar Log ---------------
+Radar data input: 7900000
+2.246
+--------------- Update with Radar Log ---------------
+Radar data input: 7933333
+2.25717
+--------------- Update with Radar Log ---------------
+Radar data input: 7966666
+6.2484
+--------------- Update with Radar Log ---------------
+Radar data input: 8000000
+4.49723
+--------------- Update with Radar Log ---------------
+Radar data input: 8033333
+1.6332
+--------------- Update with Radar Log ---------------
+Radar data input: 8066666
+1.90666
+--------------- Update with Radar Log ---------------
+Radar data input: 8100000
+6.37883
+--------------- Update with Radar Log ---------------
+Radar data input: 8133333
+1.90554
+--------------- Update with Radar Log ---------------
+Radar data input: 8166666
+5.53808
+--------------- Update with Radar Log ---------------
+Radar data input: 8200000
+1.70084
+--------------- Update with Radar Log ---------------
+Radar data input: 8233333
+7.99101
+--------------- Update with Radar Log ---------------
+Radar data input: 8266666
+2.00874
+--------------- Update with Radar Log ---------------
+Radar data input: 8300000
+6.68954
+--------------- Update with Radar Log ---------------
+Radar data input: 8333333
+0.855538
+--------------- Update with Radar Log ---------------
+Radar data input: 8366666
+0.274831
+--------------- Update with Radar Log ---------------
+Radar data input: 8400000
+0.547668
+--------------- Update with Radar Log ---------------
+Radar data input: 8433333
+7.85926
+--------------- Update with Radar Log ---------------
+Radar data input: 8466666
+3.08319
+--------------- Update with Radar Log ---------------
+Radar data input: 8500000
+0.0919362
+--------------- Update with Radar Log ---------------
+Radar data input: 8533333
+1.33891
+--------------- Update with Radar Log ---------------
+Radar data input: 8566666
+7.67444
+--------------- Update with Radar Log ---------------
+Radar data input: 8600000
+1.2433
+--------------- Update with Radar Log ---------------
+Radar data input: 8633333
+2.31473
+--------------- Update with Radar Log ---------------
+Radar data input: 8666666
+4.42107
+--------------- Update with Radar Log ---------------
+Radar data input: 8700000
+0.311274
+--------------- Update with Radar Log ---------------
+Radar data input: 8733333
+5.14004
+--------------- Update with Radar Log ---------------
+Radar data input: 8766666
+0.221645
+--------------- Update with Radar Log ---------------
+Radar data input: 8800000
+1.63355
+--------------- Update with Radar Log ---------------
+Radar data input: 8833333
+1.69269
+--------------- Update with Radar Log ---------------
+Radar data input: 8866666
+1.77559
+--------------- Update with Radar Log ---------------
+Radar data input: 8900000
+3.19668
+--------------- Update with Radar Log ---------------
+Radar data input: 8933333
+1.17893
+--------------- Update with Radar Log ---------------
+Radar data input: 8966666
+3.41065
+--------------- Update with Radar Log ---------------
+Radar data input: 9000000
+2.97309
+--------------- Update with Radar Log ---------------
+Radar data input: 9033333
+8.17987
+--------------- Update with Radar Log ---------------
+Radar data input: 9066666
+0.843467
+--------------- Update with Radar Log ---------------
+Radar data input: 9100000
+2.61496
+--------------- Update with Radar Log ---------------
+Radar data input: 9133333
+1.05005
+--------------- Update with Radar Log ---------------
+Radar data input: 9166666
+0.743198
+--------------- Update with Radar Log ---------------
+Radar data input: 9200000
+1.90356
+--------------- Update with Radar Log ---------------
+Radar data input: 9233333nput: 
+5.78842

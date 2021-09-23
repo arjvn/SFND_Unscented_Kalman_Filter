@@ -1,6 +1,10 @@
 #ifndef UKF_H
 #define UKF_H
 
+#include <fstream>
+#include <string>
+#include <memory>
+
 #include "Eigen/Dense"
 #include "measurement_package.h"
 
@@ -41,6 +45,25 @@ class UKF {
    */
   void UpdateRadar(MeasurementPackage meas_package);
 
+  /**
+     * \brief Compute augmented sigma points based on the mean state x and the state error covariance P.
+     * \details The resulting sigma points are stored in Xsig_aug_ a 7 by 15 matrix.
+     */
+  void calcAugmentedSigmaPoints();
+
+  /**
+    * \brief Predict the sigma points using the state transition model.
+    * \details moves the sigma points into the predicted state space which are now stored in Xsig_pred_ a 5 by 15 matrix.
+    *           handles 2 cases: zero rhodot and non zero rho_dot
+    *           model is made up of two portions stocastic and determinsitic.
+    *           only 3 terms of the stocastic model differ between zero and nonzero rhodot
+    *           refer to lesson 4 chapter 20 for more detail and equations
+    */
+  void calcSigmaPointsPredictedSpace(double delta_t);
+
+  void calcMeanCovarSigmaPredictedSpace();
+
+  double normalizeAngle(double angle) const;
 
   // initially set to false, set to true in first call of ProcessMeasurement
   bool is_initialized_;
@@ -57,8 +80,20 @@ class UKF {
   // state covariance matrix
   Eigen::MatrixXd P_;
 
+  // Augmented sigma points matrix
+  Eigen::MatrixXd Xsig_aug_;
+
   // predicted sigma points matrix
   Eigen::MatrixXd Xsig_pred_;
+
+  // Radar measuement noise matrix R_radar
+  Eigen::MatrixXd Lidar_sensor_noise;
+
+  // Lidar measurement matrix H_lidar
+  Eigen::MatrixXd H_lidar_;
+
+  // Radar measuement noise matrix R_radar
+  Eigen::MatrixXd Radar_SensorNoise_;
 
   // time when the state is true, in us
   long long time_us_;
@@ -93,8 +128,17 @@ class UKF {
   // Augmented state dimension
   int n_aug_;
 
+  // Lidar and radar state dimension measurement state
+  int n_z_lidar_ = 2; // px and py
+  int n_z_radar_ = 3; // rho, phi and rhodot
+
   // Sigma point spreading parameter
   double lambda_;
+
+  // Log File
+  std::shared_ptr<std::ofstream> log_file_{nullptr};
+  std::shared_ptr<std::ofstream> nis_l_{nullptr};
+  std::shared_ptr<std::ofstream> nis_r_{nullptr};
 };
 
 #endif  // UKF_H
