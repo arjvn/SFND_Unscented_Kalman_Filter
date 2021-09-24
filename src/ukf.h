@@ -87,13 +87,13 @@ class UKF {
   Eigen::MatrixXd Xsig_pred_;
 
   // Radar measuement noise matrix R_radar
-  Eigen::MatrixXd Lidar_sensor_noise;
+  Eigen::MatrixXd R_Lidar_SensorNoise_;
 
   // Lidar measurement matrix H_lidar
   Eigen::MatrixXd H_lidar_;
 
   // Radar measuement noise matrix R_radar
-  Eigen::MatrixXd Radar_SensorNoise_;
+  Eigen::MatrixXd R_Radar_SensorNoise_;
 
   // time when the state is true, in us
   long long time_us_;
