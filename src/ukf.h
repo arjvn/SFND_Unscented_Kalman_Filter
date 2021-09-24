@@ -4,6 +4,8 @@
 #include <fstream>
 #include <string>
 #include <memory>
+#include <vector>
+#include <iostream>
 
 #include "Eigen/Dense"
 #include "measurement_package.h"
@@ -64,6 +66,10 @@ class UKF {
   void calcMeanCovarSigmaPredictedSpace();
 
   double normalizeAngle(double angle) const;
+
+  void plot_nis_r(double nis_r);
+
+  void plot_nis_l(double nis_l);
 
   // initially set to false, set to true in first call of ProcessMeasurement
   bool is_initialized_;
@@ -134,6 +140,15 @@ class UKF {
 
   // Sigma point spreading parameter
   double lambda_;
+
+  double nis_r;
+  double nis_r_it_;
+  double nis_r_percentage;
+  double nis_l;
+  double nis_l_it_;
+  double nis_l_percentage;
+  std::vector<double> NIS_Lidar_vec_l;
+  std::vector<double> NIS_Lidar_vec_r;
 
   // Log File
   std::shared_ptr<std::ofstream> log_file_{nullptr};

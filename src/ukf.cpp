@@ -107,7 +107,8 @@ UKF::UKF() {
                         0, 0,std_radrd_*std_radrd_;
 
   // NIS logging and debugging
-  std::vector<double> NIS_Lidar_vec;
+  std::vector<double> NIS_Lidar_vec_r;
+  std::vector<double> NIS_Lidar_vec_l;
   std::stringstream ss;
   ss << "UKF_log" << ".txt";
   log_file_ = std::make_shared<std::ofstream>(ss.str(), std::ios::out);
@@ -276,11 +277,13 @@ void UKF::UpdateLidar(MeasurementPackage meas_package) {
   P_ -= K*S*K.transpose();
 
   // Compute and export the NIS (normalized innovation squared) value.
-  double nis = z_diff.transpose() * S.inverse() * z_diff;
+  double nis_l = z_diff.transpose() * S.inverse() * z_diff;
+  plot_nis_l(nis_l);
+  NIS_Lidar_vec_l.push_back(nis_l);
 
   *log_file_ << "--------------- Update with LiDAR Log ---------------" << '\n';
   *log_file_ << "LiDAR data input: " << meas_package.timestamp_ << '\n';
-  *log_file_ << "NIS LiDAR: " << nis << '\n';
+  *log_file_ << "NIS LiDAR: " << nis_l << '\n';
 }
 
 void UKF::UpdateRadar(MeasurementPackage meas_package) {
@@ -367,11 +370,13 @@ void UKF::UpdateRadar(MeasurementPackage meas_package) {
   P_ -= K*S*K.transpose();
 
   // Compute and export the NIS (normalized innovation squared) value.
-  double nis = z_diff.transpose() * S.inverse() * z_diff;
+  double nis_r = z_diff.transpose() * S.inverse() * z_diff;
+  plot_nis_r(nis_r);
+  NIS_Lidar_vec_r.push_back(nis_r);
 
   *log_file_ << "--------------- Update with Radar Log ---------------" << '\n';
   *log_file_ << "Radar data input: " << meas_package.timestamp_ << '\n';
-  *log_file_ << "NIS Radar: " << nis << '\n';
+  *log_file_ << "NIS Radar: " << nis_r << '\n';
 
   // std::cout << "x_ UpdateRadar" << '\n';
   // std::cout << x_ << '\n';
@@ -497,4 +502,20 @@ double UKF::normalizeAngle(double angle) const {
   }
 
   return angle;
+}
+
+void UKF::plot_nis_r(double nis_r){
+  if (nis_r > 7.815) {
+    nis_r_it_++;
+    nis_r_percentage = (nis_r_it_/NIS_Lidar_vec_r.size())*100;
+    std::cout << "nis_r_percentage: " << nis_r_percentage<< '\n';
+  }
+}
+
+void UKF::plot_nis_l(double nis_l){
+  if (nis_l > 5.991) {
+    nis_l_it_++;
+    nis_l_percentage = (nis_l_it_/NIS_Lidar_vec_l.size())*100;
+    std::cout << "nis_l_percentage: " << nis_l_percentage<< '\n';
+  }
 }
