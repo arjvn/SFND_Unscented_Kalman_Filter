@@ -7,834 +7,1745 @@ LiDAR data input: 0
 Data: -11.7982, -0.0824619
 --------------- Update with Radar Log ---------------
 Radar data input: 0
-5.68287
+NIS Radar: 5.68287
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 33333
+NIS LiDAR: 0.982204
 --------------- Update with Radar Log ---------------
 Radar data input: 33333
-1.8971
+NIS Radar: 1.8971
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 66666
+NIS LiDAR: 0.543893
 --------------- Update with Radar Log ---------------
 Radar data input: 66666
-2.33693
+NIS Radar: 2.33693
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 100000
+NIS LiDAR: 0.989504
 --------------- Update with Radar Log ---------------
 Radar data input: 100000
-3.0427
+NIS Radar: 3.0427
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 133333
+NIS LiDAR: 0.56282
 --------------- Update with Radar Log ---------------
 Radar data input: 133333
-1.39394
+NIS Radar: 1.39394
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 166666
+NIS LiDAR: 2.02484
 --------------- Update with Radar Log ---------------
 Radar data input: 166666
-3.48389
+NIS Radar: 3.48389
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 200000
+NIS LiDAR: 3.21252
 --------------- Update with Radar Log ---------------
 Radar data input: 200000
-2.12816
+NIS Radar: 2.12816
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 233333
+NIS LiDAR: 1.02369
 --------------- Update with Radar Log ---------------
 Radar data input: 233333
-1.164
+NIS Radar: 1.164
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 266666
+NIS LiDAR: 3.42869
 --------------- Update with Radar Log ---------------
 Radar data input: 266666
-5.97173
+NIS Radar: 5.97173
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 300000
+NIS LiDAR: 0.582631
 --------------- Update with Radar Log ---------------
 Radar data input: 300000
-1.43538
+NIS Radar: 1.43538
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 333333
+NIS LiDAR: 2.26399
 --------------- Update with Radar Log ---------------
 Radar data input: 333333
-4.75054
+NIS Radar: 4.75054
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 366666
+NIS LiDAR: 3.78143
 --------------- Update with Radar Log ---------------
 Radar data input: 366666
-3.19791
+NIS Radar: 3.19791
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 400000
+NIS LiDAR: 1.84597
 --------------- Update with Radar Log ---------------
 Radar data input: 400000
-1.19224
+NIS Radar: 1.19224
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 433333
+NIS LiDAR: 0.192162
 --------------- Update with Radar Log ---------------
 Radar data input: 433333
-1.9084
+NIS Radar: 1.9084
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 466666
+NIS LiDAR: 0.583362
 --------------- Update with Radar Log ---------------
 Radar data input: 466666
-4.82377
+NIS Radar: 4.82377
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 500000
+NIS LiDAR: 0.467745
 --------------- Update with Radar Log ---------------
 Radar data input: 500000
-2.59181
+NIS Radar: 2.59181
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 533333
+NIS LiDAR: 2.96445
 --------------- Update with Radar Log ---------------
 Radar data input: 533333
-1.44089
+NIS Radar: 1.44089
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 566666
+NIS LiDAR: 3.04768
 --------------- Update with Radar Log ---------------
 Radar data input: 566666
-1.68584
+NIS Radar: 1.68584
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 600000
+NIS LiDAR: 0.453872
 --------------- Update with Radar Log ---------------
 Radar data input: 600000
-3.85818
+NIS Radar: 3.85818
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 633333
+NIS LiDAR: 4.54845
 --------------- Update with Radar Log ---------------
 Radar data input: 633333
-2.21501
+NIS Radar: 2.21501
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 666666
+NIS LiDAR: 2.64904
 --------------- Update with Radar Log ---------------
 Radar data input: 666666
-6.12331
+NIS Radar: 6.12331
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 700000
+NIS LiDAR: 1.23895
 --------------- Update with Radar Log ---------------
 Radar data input: 700000
-1.22742
+NIS Radar: 1.22742
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 733333
+NIS LiDAR: 1.15741
 --------------- Update with Radar Log ---------------
 Radar data input: 733333
-2.90672
+NIS Radar: 2.90672
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 766666
+NIS LiDAR: 0.579213
 --------------- Update with Radar Log ---------------
 Radar data input: 766666
-1.39332
+NIS Radar: 1.39332
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 800000
+NIS LiDAR: 0.308898
 --------------- Update with Radar Log ---------------
 Radar data input: 800000
-1.4383
+NIS Radar: 1.4383
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 833333
+NIS LiDAR: 0.0850586
 --------------- Update with Radar Log ---------------
 Radar data input: 833333
-2.83333
+NIS Radar: 2.83333
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 866666
+NIS LiDAR: 2.69188
 --------------- Update with Radar Log ---------------
 Radar data input: 866666
-1.96516
+NIS Radar: 1.96516
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 900000
+NIS LiDAR: 2.01179
 --------------- Update with Radar Log ---------------
 Radar data input: 900000
-2.5302
+NIS Radar: 2.5302
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 933333
+NIS LiDAR: 4.1457
 --------------- Update with Radar Log ---------------
 Radar data input: 933333
-5.17815
+NIS Radar: 5.17815
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 966666
+NIS LiDAR: 3.57214
 --------------- Update with Radar Log ---------------
 Radar data input: 966666
-3.3874
+NIS Radar: 3.3874
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1000000
+NIS LiDAR: 3.18706
 --------------- Update with Radar Log ---------------
 Radar data input: 1000000
-2.78807
+NIS Radar: 2.78807
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1033333
+NIS LiDAR: 0.207137
 --------------- Update with Radar Log ---------------
 Radar data input: 1033333
-0.184259
+NIS Radar: 0.184259
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1066666
+NIS LiDAR: 0.631759
 --------------- Update with Radar Log ---------------
 Radar data input: 1066666
-1.11579
+NIS Radar: 1.11579
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1100000
+NIS LiDAR: 0.426858
 --------------- Update with Radar Log ---------------
 Radar data input: 1100000
-3.91359
+NIS Radar: 3.91359
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1133333
+NIS LiDAR: 1.46601
 --------------- Update with Radar Log ---------------
 Radar data input: 1133333
-0.489781
+NIS Radar: 0.489781
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1166666
+NIS LiDAR: 1.57063
 --------------- Update with Radar Log ---------------
 Radar data input: 1166666
-2.0769
+NIS Radar: 2.0769
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1200000
+NIS LiDAR: 0.339031
 --------------- Update with Radar Log ---------------
 Radar data input: 1200000
-5.36787
+NIS Radar: 5.36787
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1233333
+NIS LiDAR: 0.764398
 --------------- Update with Radar Log ---------------
 Radar data input: 1233333
-5.24715
+NIS Radar: 5.24715
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1266666
+NIS LiDAR: 0.157174
 --------------- Update with Radar Log ---------------
 Radar data input: 1266666
-6.68427
+NIS Radar: 6.68427
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1300000
+NIS LiDAR: 0.560976
 --------------- Update with Radar Log ---------------
 Radar data input: 1300000
-7.65833
+NIS Radar: 7.65833
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1333333
+NIS LiDAR: 3.19795
 --------------- Update with Radar Log ---------------
 Radar data input: 1333333
-7.2062
+NIS Radar: 7.2062
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1366666
+NIS LiDAR: 3.94275
 --------------- Update with Radar Log ---------------
 Radar data input: 1366666
-1.10968
+NIS Radar: 1.10968
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1400000
+NIS LiDAR: 2.49355
 --------------- Update with Radar Log ---------------
 Radar data input: 1400000
-1.65547
+NIS Radar: 1.65547
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1433333
+NIS LiDAR: 0.775024
 --------------- Update with Radar Log ---------------
 Radar data input: 1433333
-3.91463
+NIS Radar: 3.91463
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1466666
+NIS LiDAR: 2.51421
 --------------- Update with Radar Log ---------------
 Radar data input: 1466666
-1.01269
+NIS Radar: 1.01269
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1500000
+NIS LiDAR: 0.815262
 --------------- Update with Radar Log ---------------
 Radar data input: 1500000
-9.14352
+NIS Radar: 9.14352
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1533333
+NIS LiDAR: 3.98911
 --------------- Update with Radar Log ---------------
 Radar data input: 1533333
-5.93768
+NIS Radar: 5.93768
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1566666
+NIS LiDAR: 4.06291
 --------------- Update with Radar Log ---------------
 Radar data input: 1566666
-3.06658
+NIS Radar: 3.06658
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1600000
+NIS LiDAR: 1.48824
 --------------- Update with Radar Log ---------------
 Radar data input: 1600000
-3.83308
+NIS Radar: 3.83308
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1633333
+NIS LiDAR: 1.01269
 --------------- Update with Radar Log ---------------
 Radar data input: 1633333
-2.61419
+NIS Radar: 2.61419
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1666666
+NIS LiDAR: 3.63802
 --------------- Update with Radar Log ---------------
 Radar data input: 1666666
-3.66204
+NIS Radar: 3.66204
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1700000
+NIS LiDAR: 5.24788
 --------------- Update with Radar Log ---------------
 Radar data input: 1700000
-2.35596
+NIS Radar: 2.35596
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1733333
+NIS LiDAR: 0.535284
 --------------- Update with Radar Log ---------------
 Radar data input: 1733333
-2.64107
+NIS Radar: 2.64107
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1766666
+NIS LiDAR: 0.569363
 --------------- Update with Radar Log ---------------
 Radar data input: 1766666
-0.282676
+NIS Radar: 0.282676
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1800000
+NIS LiDAR: 0.995314
 --------------- Update with Radar Log ---------------
 Radar data input: 1800000
-3.70563
+NIS Radar: 3.70563
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1833333
+NIS LiDAR: 3.20623
 --------------- Update with Radar Log ---------------
 Radar data input: 1833333
-0.858297
+NIS Radar: 0.858297
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1866666
+NIS LiDAR: 0.215476
 --------------- Update with Radar Log ---------------
 Radar data input: 1866666
-6.18653
+NIS Radar: 6.18653
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1900000
+NIS LiDAR: 7.66763
 --------------- Update with Radar Log ---------------
 Radar data input: 1900000
-5.98108
+NIS Radar: 5.98108
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1933333
+NIS LiDAR: 5.17169
 --------------- Update with Radar Log ---------------
 Radar data input: 1933333
-3.01859
+NIS Radar: 3.01859
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 1966666
+NIS LiDAR: 4.28008
 --------------- Update with Radar Log ---------------
 Radar data input: 1966666
-1.68434
+NIS Radar: 1.68434
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2000000
+NIS LiDAR: 1.74358
 --------------- Update with Radar Log ---------------
 Radar data input: 2000000
-4.32034
+NIS Radar: 4.32034
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2033333
+NIS LiDAR: 2.48424
 --------------- Update with Radar Log ---------------
 Radar data input: 2033333
-1.26733
+NIS Radar: 1.26733
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2066666
+NIS LiDAR: 0.500897
 --------------- Update with Radar Log ---------------
 Radar data input: 2066666
-1.41135
+NIS Radar: 1.41135
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2100000
+NIS LiDAR: 0.873983
 --------------- Update with Radar Log ---------------
 Radar data input: 2100000
-2.04991
+NIS Radar: 2.04991
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2133333
+NIS LiDAR: 1.40829
 --------------- Update with Radar Log ---------------
 Radar data input: 2133333
-1.90487
+NIS Radar: 1.90487
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2166666
+NIS LiDAR: 5.49811
 --------------- Update with Radar Log ---------------
 Radar data input: 2166666
-4.92252
+NIS Radar: 4.92252
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2200000
+NIS LiDAR: 0.713045
 --------------- Update with Radar Log ---------------
 Radar data input: 2200000
-1.12015
+NIS Radar: 1.12015
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2233333
+NIS LiDAR: 0.827974
 --------------- Update with Radar Log ---------------
 Radar data input: 2233333
-0.277646
+NIS Radar: 0.277646
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2266666
+NIS LiDAR: 13.1846
 --------------- Update with Radar Log ---------------
 Radar data input: 2266666
-0.987282
+NIS Radar: 0.987282
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2300000
+NIS LiDAR: 0.657757
 --------------- Update with Radar Log ---------------
 Radar data input: 2300000
-4.51367
+NIS Radar: 4.51367
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2333333
+NIS LiDAR: 8.24373
 --------------- Update with Radar Log ---------------
 Radar data input: 2333333
-1.94529
+NIS Radar: 1.94529
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2366666
+NIS LiDAR: 6.03517
 --------------- Update with Radar Log ---------------
 Radar data input: 2366666
-0.920624
+NIS Radar: 0.920624
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2400000
+NIS LiDAR: 1.79179
 --------------- Update with Radar Log ---------------
 Radar data input: 2400000
-6.16448
+NIS Radar: 6.16448
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2433333
+NIS LiDAR: 4.35132
 --------------- Update with Radar Log ---------------
 Radar data input: 2433333
-1.48164
+NIS Radar: 1.48164
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2466666
+NIS LiDAR: 2.51442
 --------------- Update with Radar Log ---------------
 Radar data input: 2466666
-10.6736
+NIS Radar: 10.6736
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2500000
+NIS LiDAR: 0.247088
 --------------- Update with Radar Log ---------------
 Radar data input: 2500000
-5.61167
+NIS Radar: 5.61167
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2533333
+NIS LiDAR: 0.967962
 --------------- Update with Radar Log ---------------
 Radar data input: 2533333
-6.07832
+NIS Radar: 6.07832
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2566666
+NIS LiDAR: 2.08884
 --------------- Update with Radar Log ---------------
 Radar data input: 2566666
-2.93298
+NIS Radar: 2.93298
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2600000
+NIS LiDAR: 3.65264
 --------------- Update with Radar Log ---------------
 Radar data input: 2600000
-0.775797
+NIS Radar: 0.775797
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2633333
+NIS LiDAR: 11.586
 --------------- Update with Radar Log ---------------
 Radar data input: 2633333
-3.51915
+NIS Radar: 3.51915
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2666666
+NIS LiDAR: 0.461497
 --------------- Update with Radar Log ---------------
 Radar data input: 2666666
-13.354
+NIS Radar: 13.354
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2700000
+NIS LiDAR: 0.497651
 --------------- Update with Radar Log ---------------
 Radar data input: 2700000
-0.903882
---------------- Update with Radar Log ---------------
+NIS Radar: 0.903882
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2733333
+NIS LiDAR: 3.1028
+--------------- Update with Radar Log -----
+Rada
+Rada
 Radar data input: 2733333
-1.84795
+NIS Radar: 1.84795
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2766666
+NIS LiDAR: 3.28898
 --------------- Update with Radar Log ---------------
 Radar data input: 2766666
-8.00188
+NIS Radar: 8.00188
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2800000
+NIS LiDAR: 0.789236
 --------------- Update with Radar Log ---------------
 Radar data input: 2800000
-7.04347
+NIS Radar: 7.04347
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2833333
+NIS LiDAR: 2.18596
 --------------- Update with Radar Log ---------------
 Radar data input: 2833333
-1.34628
+NIS Radar: 1.34628
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2866666
+NIS LiDAR: 5.97295
 --------------- Update with Radar Log ---------------
 Radar data input: 2866666
-4.02019
+NIS Radar: 4.02019
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2900000
+NIS LiDAR: 0.60503
 --------------- Update with Radar Log ---------------
 Radar data input: 2900000
-4.01661
+NIS Radar: 4.01661
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2933333
+NIS LiDAR: 1.9686
 --------------- Update with Radar Log ---------------
 Radar data input: 2933333
-6.52642
+NIS Radar: 6.52642
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 2966666
+NIS LiDAR: 1.32098
 --------------- Update with Radar Log ---------------
 Radar data input: 2966666
-3.58855
+NIS Radar: 3.58855
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3000000
+NIS LiDAR: 4.42214
 --------------- Update with Radar Log ---------------
 Radar data input: 3000000
-2.38115
+NIS Radar: 2.38115
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3033333
+NIS LiDAR: 0.290869
 --------------- Update with Radar Log ---------------
 Radar data input: 3033333
-10.7762
+NIS Radar: 10.7762
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3066666
+NIS LiDAR: 4.00633
 --------------- Update with Radar Log ---------------
 Radar data input: 3066666
-1.14398
+NIS Radar: 1.14398
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3100000
+NIS LiDAR: 0.253919
 --------------- Update with Radar Log ---------------
 Radar data input: 3100000
-4.88817
+NIS Radar: 4.88817
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3133333
+NIS LiDAR: 1.97278
 --------------- Update with Radar Log ---------------
 Radar data input: 3133333
-1.83139
+NIS Radar: 1.83139
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3166666
+NIS LiDAR: 2.21065
 --------------- Update with Radar Log ---------------
 Radar data input: 3166666
-2.14126
+NIS Radar: 2.14126
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3200000
+NIS LiDAR: 1.81503
 --------------- Update with Radar Log ---------------
 Radar data input: 3200000
-2.92561
+NIS Radar: 2.92561
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3233333
+NIS LiDAR: 0.516699
 --------------- Update with Radar Log ---------------
 Radar data input: 3233333
-13.078
+NIS Radar: 13.078
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3266666
+NIS LiDAR: 0.47377
 --------------- Update with Radar Log ---------------
 Radar data input: 3266666
-42.7673
+NIS Radar: 42.7673
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3300000
+NIS LiDAR: 0.942442
 --------------- Update with Radar Log ---------------
 Radar data input: 3300000
-22.1476
+NIS Radar: 22.1476
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3333333
+NIS LiDAR: 1.65006
 --------------- Update with Radar Log ---------------
 Radar data input: 3333333
-8.32519
+NIS Radar: 8.32519
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3366666
+NIS LiDAR: 9.06594
 --------------- Update with Radar Log ---------------
 Radar data input: 3366666
-20.3559
+NIS Radar: 20.3559
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3400000
+NIS LiDAR: 0.658005
 --------------- Update with Radar Log ---------------
 Radar data input: 3400000
-2.41439
+NIS Radar: 2.41439
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3433333
+NIS LiDAR: 1.97487
 --------------- Update with Radar Log ---------------
 Radar data input: 3433333
-8.0616
+NIS Radar: 8.0616
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3466666
+NIS LiDAR: 8.92823
 --------------- Update with Radar Log ---------------
 Radar data input: 3466666
-0.872499
+NIS Radar: 0.872499
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3500000
+NIS LiDAR: 2.39967
 --------------- Update with Radar Log ---------------
 Radar data input: 3500000
-5.58344
+NIS Radar: 5.58344
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3533333
+NIS LiDAR: 2.42407
 --------------- Update with Radar Log ---------------
 Radar data input: 3533333
-4.39176
+NIS Radar: 4.39176
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3566666
+NIS LiDAR: 1.24388
 --------------- Update with Radar Log ---------------
 Radar data input: 3566666
-7.546
+NIS Radar: 7.546
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3600000
+NIS LiDAR: 2.7523
 --------------- Update with Radar Log ---------------
 Radar data input: 3600000
-19.5016
+NIS Radar: 19.5016
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3633333
+NIS LiDAR: 0.353714
 --------------- Update with Radar Log ---------------
 Radar data input: 3633333
-5.27602
+NIS Radar: 5.27602
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3666666
+NIS LiDAR: 0.488076
 --------------- Update with Radar Log ---------------
 Radar data input: 3666666
-4.43412
+NIS Radar: 4.43412
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3700000
+NIS LiDAR: 1.91477
 --------------- Update with Radar Log ---------------
 Radar data input: 3700000
-4.44416
+NIS Radar: 4.44416
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3733333
+NIS LiDAR: 2.34383
 --------------- Update with Radar Log ---------------
 Radar data input: 3733333
-0.649036
+NIS Radar: 0.649036
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3766666
+NIS LiDAR: 2.87267
 --------------- Update with Radar Log ---------------
 Radar data input: 3766666
-3.57001
+NIS Radar: 3.57001
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3800000
+NIS LiDAR: 4.33773
 --------------- Update with Radar Log ---------------
 Radar data input: 3800000
-0.291495
+NIS Radar: 0.291495
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3833333
+NIS LiDAR: 8.04972
 --------------- Update with Radar Log ---------------
 Radar data input: 3833333
-5.24566
+NIS Radar: 5.24566
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3866666
+NIS LiDAR: 1.01082
 --------------- Update with Radar Log ---------------
 Radar data input: 3866666
-0.510327
+NIS Radar: 0.510327
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3900000
+NIS LiDAR: 0.903145
 --------------- Update with Radar Log ---------------
 Radar data input: 3900000
-2.36439
+NIS Radar: 2.36439
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3933333
+NIS LiDAR: 9.97001
 --------------- Update with Radar Log ---------------
 Radar data input: 3933333
-7.55666
+NIS Radar: 7.55666
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 3966666
+NIS LiDAR: 5.36061
 --------------- Update with Radar Log ---------------
 Radar data input: 3966666
-0.827752
+NIS Radar: 0.827752
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4000000
+NIS LiDAR: 1.62271
 --------------- Update with Radar Log ---------------
 Radar data input: 4000000
-3.25199
+NIS Radar: 3.25199
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4033333
+NIS LiDAR: 0.370768
 --------------- Update with Radar Log ---------------
 Radar data input: 4033333
-4.83432
+NIS Radar: 4.83432
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4066666
+NIS LiDAR: 2.51531
 --------------- Update with Radar Log ---------------
 Radar data input: 4066666
-0.796597
+NIS Radar: 0.796597
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4100000
+NIS LiDAR: 1.33644
 --------------- Update with Radar Log ---------------
 Radar data input: 4100000
-3.8764
+NIS Radar: 3.8764
+--------------- Update with LiDAR Log -------
+LiDAR d
+LiDAR data input: 4133333
+NIS LiDAR: 0.781721
 --------------- Update with Radar Log ---------------
 Radar data input: 4133333
-3.75806
+NIS Radar: 3.75806
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4166666
+NIS LiDAR: 1.81882
 --------------- Update with Radar Log ---------------
 Radar data input: 4166666
-1.54793
+NIS Radar: 1.54793
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4200000
+NIS LiDAR: 0.993582
 --------------- Update with Radar Log ---------------
 Radar data input: 4200000
-4.33967
+NIS Radar: 4.33967
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4233333
+NIS LiDAR: 1.97183
 --------------- Update with Radar Log ---------------
 Radar data input: 4233333
-4.62212
+NIS Radar: 4.62212
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4266666
+NIS LiDAR: 5.537
 --------------- Update with Radar Log ---------------
 Radar data input: 4266666
-1.53296
+NIS Radar: 1.53296
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4300000
+NIS LiDAR: 0.671899
 --------------- Update with Radar Log ---------------
 Radar data input: 4300000
-6.45087
+NIS Radar: 6.45087
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4333333
+NIS LiDAR: 1.16167
 --------------- Update with Radar Log ---------------
 Radar data input: 4333333
-0.741123
+NIS Radar: 0.741123
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4366666
+NIS LiDAR: 0.189853
 --------------- Update with Radar Log ---------------
 Radar data input: 4366666
-0.740866
+NIS Radar: 0.740866
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4400000
+NIS LiDAR: 0.0272745
 --------------- Update with Radar Log ---------------
 Radar data input: 4400000
-5.04936
+NIS Radar: 5.04936
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4433333
+NIS LiDAR: 0.983186
 --------------- Update with Radar Log ---------------
 Radar data input: 4433333
-4.07066
+NIS Radar: 4.07066
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4466666
+NIS LiDAR: 1.50215
 --------------- Update with Radar Log ---------------
 Radar data input: 4466666
-2.21586
+NIS Radar: 2.21586
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4500000
+NIS LiDAR: 1.97592
 --------------- Update with Radar Log ---------------
 Radar data input: 4500000
-6.58228
+NIS Radar: 6.58228
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4533333
+NIS LiDAR: 0.884652
 --------------- Update with Radar Log ---------------
 Radar data input: 4533333
-0.931726
+NIS Radar: 0.931726
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4566666
+NIS LiDAR: 4.67486
 --------------- Update with Radar Log ---------------
 Radar data input: 4566666
-1.08749
+NIS Radar: 1.08749
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4600000
+NIS LiDAR: 0.742249
 --------------- Update with Radar Log ---------------
 Radar data input: 4600000
-0.303824
+NIS Radar: 0.303824
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4633333
+NIS LiDAR: 0.897314
 --------------- Update with Radar Log ---------------
 Radar data input: 4633333
-1.75883
+NIS Radar: 1.75883
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4666666
+NIS LiDAR: 0.0507993
 --------------- Update with Radar Log ---------------
 Radar data input: 4666666
-2.50809
+NIS Radar: 2.50809
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4700000
+NIS LiDAR: 0.966659
 --------------- Update with Radar Log ---------------
 Radar data input: 4700000
-3.90411
+NIS Radar: 3.90411
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4733333
+NIS LiDAR: 2.44792
 --------------- Update with Radar Log ---------------
 Radar data input: 4733333
-4.09643
+NIS Radar: 4.09643
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4766666
+NIS LiDAR: 4.26646
 --------------- Update with Radar Log ---------------
 Radar data input: 4766666
-0.770026
+NIS Radar: 0.770026
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4800000
+NIS LiDAR: 2.32652
 --------------- Update with Radar Log ---------------
 Radar data input: 4800000
-0.725416
+NIS Radar: 0.725416
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4833333
+NIS LiDAR: 2.05591
 --------------- Update with Radar Log ---------------
 Radar data input: 4833333
-1.44028
+NIS Radar: 1.44028
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4866666
+NIS LiDAR: 1.77397
 --------------- Update with Radar Log ---------------
 Radar data input: 4866666
-0.435067
+NIS Radar: 0.435067
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4900000
+NIS LiDAR: 1.94233
 --------------- Update with Radar Log ---------------
 Radar data input: 4900000
-3.48054
+NIS Radar: 3.48054
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4933333
+NIS LiDAR: 0.605336
 --------------- Update with Radar Log ---------------
 Radar data input: 4933333
-3.4086
+NIS Radar: 3.4086
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 4966666
+NIS LiDAR: 0.457847
 --------------- Update with Radar Log ---------------
 Radar data input: 4966666
-3.14796
+NIS Radar: 3.14796
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5000000
+NIS LiDAR: 1.35376
 --------------- Update with Radar Log ---------------
 Radar data input: 5000000
-0.885758
+NIS Radar: 0.885758
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5033333
+NIS LiDAR: 0.937025
 --------------- Update with Radar Log ---------------
 Radar data input: 5033333
-2.80431
+NIS Radar: 2.80431
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5066666
+NIS LiDAR: 4.06621
 --------------- Update with Radar Log ---------------
 Radar data input: 5066666
-2.23301
+NIS Radar: 2.23301
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5100000
+NIS LiDAR: 2.21951
 --------------- Update with Radar Log ---------------
 Radar data input: 5100000
-7.43752
+NIS Radar: 7.43752
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5133333
+NIS LiDAR: 7.60723
 --------------- Update with Radar Log ---------------
 Radar data input: 5133333
-1.88465
+NIS Radar: 1.88465
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5166666
+NIS LiDAR: 0.0887234
 --------------- Update with Radar Log ---------------
 Radar data input: 5166666
-0.659813
+NIS Radar: 0.659813
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5200000
+NIS LiDAR: 2.1038
 --------------- Update with Radar Log ---------------
 Radar data input: 5200000
-5.3829
+NIS Radar: 5.3829
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5233333
+NIS LiDAR: 0.960015
 --------------- Update with Radar Log ---------------
 Radar data input: 5233333
-3.90109
+NIS Radar: 3.90109
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5266666
+NIS LiDAR: 0.595274
 --------------- Update with Radar Log ---------------
 Radar data input: 5266666
-6.94286
+NIS Radar: 6.94286
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5300000
+NIS LiDAR: 0.251461
 --------------- Update with Radar Log ---------------
 Radar data input: 5300000
-3.18839
+NIS Radar: 3.18839
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5333333
+NIS LiDAR: 2.77274
 --------------- Update with Radar Log ---------------
 Radar data input: 5333333
-2.05727
+NIS Radar: 2.05727
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5366666
+NIS LiDAR: 0.250113
 --------------- Update with Radar Log ---------------
 Radar data input: 5366666
-2.49224
+NIS Radar: 2.49224
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5400000
+NIS LiDAR: 0.695529
 --------------- Update with Radar Log ---------------
 Radar data input: 5400000
-1.13911
+NIS Radar: 1.13911
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5433333
+NIS LiDAR: 0.0874817
 --------------- Update with Radar Log ---------------
 Radar data input: 5433333
-6.39118
+NIS Radar: 6.39118
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5466666
+NIS LiDAR: 0.585595
 --------------- Update with Radar Log ---------------
 Radar data input: 5466666
-3.63865
---------------- Update with Radar Log ---------------
+NIS Radar: 3.63865
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5500000
+NIS LiDAR: 1.06195
+--------------- Update wit
+Radar data inp
 Radar data input: 5500000
-1.2842
+NIS Radar: 1.82276
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5533333
+NIS LiDAR: 2.10469
 --------------- Update with Radar Log ---------------
 Radar data input: 5533333
-0.845861
+NIS Radar: 0.768493
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5566666
+NIS LiDAR: 0.34394
 --------------- Update with Radar Log ---------------
 Radar data input: 5566666
-0.905545
+NIS Radar: 1.16926
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5600000
+NIS LiDAR: 0.308432
 --------------- Update with Radar Log ---------------
 Radar data input: 5600000
-0.962236
+NIS Radar: 1.37391
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5633333
+NIS LiDAR: 0.0303695
 --------------- Update with Radar Log ---------------
 Radar data input: 5633333
-1.69644
+NIS Radar: 1.7277
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5666666
+NIS LiDAR: 3.75782
 --------------- Update with Radar Log ---------------
 Radar data input: 5666666
-2.53403
+NIS Radar: 2.94463
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5700000
+NIS LiDAR: 6.17998
 --------------- Update with Radar Log ---------------
 Radar data input: 5700000
-8.08453
+NIS Radar: 10.1123
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5733333
+NIS LiDAR: 2.42064
 --------------- Update with Radar Log ---------------
 Radar data input: 5733333
-2.4988
+NIS Radar: 3.12408
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5766666
+NIS LiDAR: 2.53783
 --------------- Update with Radar Log ---------------
 Radar data input: 5766666
-1.639
+NIS Radar: 1.92541
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5800000
+NIS LiDAR: 4.61398
 --------------- Update with Radar Log ---------------
 Radar data input: 5800000
-1.21018
+NIS Radar: 2.12878
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5833333
+NIS LiDAR: 4.50386
 --------------- Update with Radar Log ---------------
 Radar data input: 5833333
-2.84067
+NIS Radar: 2.13315
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5866666
+NIS LiDAR: 4.35268
 --------------- Update with Radar Log ---------------
 Radar data input: 5866666
-4.65894
+NIS Radar: 4.12324
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5900000
+NIS LiDAR: 2.7642
 --------------- Update with Radar Log ---------------
 Radar data input: 5900000
-1.8557
+NIS Radar: 1.88923
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5933333
+NIS LiDAR: 4.99993
 --------------- Update with Radar Log ---------------
 Radar data input: 5933333
-3.21694
+NIS Radar: 1.87115
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 5966666
+NIS LiDAR: 0.173392
 --------------- Update with Radar Log ---------------
 Radar data input: 5966666
-4.06357
+NIS Radar: 2.6866
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6000000
+NIS LiDAR: 0.268453
 --------------- Update with Radar Log ---------------
 Radar data input: 6000000
-1.39647
+NIS Radar: 2.12294
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6033333
+NIS LiDAR: 0.665217
 --------------- Update with Radar Log ---------------
 Radar data input: 6033333
-0.639351
+NIS Radar: 1.18762
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6066666
+NIS LiDAR: 0.223248
 --------------- Update with Radar Log ---------------
 Radar data input: 6066666
-3.12335
+NIS Radar: 2.32027
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6100000
+NIS LiDAR: 3.57301
 --------------- Update with Radar Log ---------------
 Radar data input: 6100000
-5.04712
+NIS Radar: 5.4863
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6133333
+NIS LiDAR: 6.8558
 --------------- Update with Radar Log ---------------
 Radar data input: 6133333
-1.90885
+NIS Radar: 3.67013
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6166666
+NIS LiDAR: 2.72548
 --------------- Update with Radar Log ---------------
 Radar data input: 6166666
-0.855511
+NIS Radar: 1.72127
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6200000
+NIS LiDAR: 2.78793
 --------------- Update with Radar Log ---------------
 Radar data input: 6200000
-3.27711
+NIS Radar: 1.29496
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6233333
+NIS LiDAR: 2.06881
 --------------- Update with Radar Log ---------------
 Radar data input: 6233333
-5.06037
+NIS Radar: 7.28058
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6266666
+NIS LiDAR: 1.79142
 --------------- Update with Radar Log ---------------
 Radar data input: 6266666
-3.62855
+NIS Radar: 2.88946
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6300000
+NIS LiDAR: 0.682426
 --------------- Update with Radar Log ---------------
 Radar data input: 6300000
-2.48402
+NIS Radar: 2.56024
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6333333
+NIS LiDAR: 0.235685
 --------------- Update with Radar Log ---------------
 Radar data input: 6333333
-6.4665
+NIS Radar: 6.2998
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6366666
+NIS LiDAR: 7.01035
 --------------- Update with Radar Log ---------------
 Radar data input: 6366666
-4.70433
+NIS Radar: 4.75566
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6400000
+NIS LiDAR: 0.385462
 --------------- Update with Radar Log ---------------
 Radar data input: 6400000
-9.3816
+NIS Radar: 11.4966
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6433333
+NIS LiDAR: 0.308274
 --------------- Update with Radar Log ---------------
 Radar data input: 6433333
-3.9969
+NIS Radar: 4.57346
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6466666
+NIS LiDAR: 1.92278
 --------------- Update with Radar Log ---------------
 Radar data input: 6466666
-0.0192898
+NIS Radar: 0.3941
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6500000
+NIS LiDAR: 1.88818
 --------------- Update with Radar Log ---------------
 Radar data input: 6500000
-7.85811
+NIS Radar: 8.77929
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6533333
+NIS LiDAR: 0.318946
 --------------- Update with Radar Log ---------------
 Radar data input: 6533333
-1.41265
+NIS Radar: 2.16898
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6566666
+NIS LiDAR: 0.144179
 --------------- Update with Radar Log ---------------
 Radar data input: 6566666
-5.93388
+NIS Radar: 6.46457
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6600000
+NIS LiDAR: 0.452154
 --------------- Update with Radar Log ---------------
 Radar data input: 6600000
-3.75458
+NIS Radar: 4.72177
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6633333
+NIS LiDAR: 1.71616
 --------------- Update with Radar Log ---------------
 Radar data input: 6633333
-0.904465
+NIS Radar: 0.71686
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6666666
+NIS LiDAR: 0.701476
 --------------- Update with Radar Log ---------------
 Radar data input: 6666666
-5.31728
+NIS Radar: 5.56113
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6700000
+NIS LiDAR: 0.918113
 --------------- Update with Radar Log ---------------
 Radar data input: 6700000
-0.351772
+NIS Radar: 0.310171
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6733333
+NIS LiDAR: 10.6474
 --------------- Update with Radar Log ---------------
 Radar data input: 6733333
-11.3325
+NIS Radar: 11.2967
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6766666
+NIS LiDAR: 0.902271
 --------------- Update with Radar Log ---------------
 Radar data input: 6766666
-1.87782
+NIS Radar: 1.78262
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6800000
+NIS LiDAR: 3.49703
 --------------- Update with Radar Log ---------------
 Radar data input: 6800000
-5.23459
+NIS Radar: 4.40447
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6833333
+NIS LiDAR: 0.682684
 --------------- Update with Radar Log ---------------
 Radar data input: 6833333
-2.88611
+NIS Radar: 3.94072
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6866666
+NIS LiDAR: 0.999799
 --------------- Update with Radar Log ---------------
+Radar data input:
 Radar data input: 6866666
-1.25419
+NIS Radar: 1.25419
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6900000
+NIS LiDAR: 0.565085
 --------------- Update with Radar Log ---------------
 Radar data input: 6900000
-1.02478
+NIS Radar: 1.02478
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6933333
+NIS LiDAR: 1.22272
 --------------- Update with Radar Log ---------------
 Radar data input: 6933333
-5.58861
+NIS Radar: 5.58861
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 6966666
+NIS LiDAR: 4.34398
 --------------- Update with Radar Log ---------------
 Radar data input: 6966666
-0.224735
+NIS Radar: 0.224735
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7000000
+NIS LiDAR: 0.325412
 --------------- Update with Radar Log ---------------
 Radar data input: 7000000
-7.66542
+NIS Radar: 7.66542
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7033333
+NIS LiDAR: 4.48971
 --------------- Update with Radar Log ---------------
 Radar data input: 7033333
-2.43117
+NIS Radar: 2.43117
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7066666
+NIS LiDAR: 7.10544
 --------------- Update with Radar Log ---------------
 Radar data input: 7066666
-0.886264
+NIS Radar: 0.886264
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7100000
+NIS LiDAR: 1.06799
 --------------- Update with Radar Log ---------------
 Radar data input: 7100000
-3.06398
+NIS Radar: 3.06398
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7133333
+NIS LiDAR: 2.2412
 --------------- Update with Radar Log ---------------
 Radar data input: 7133333
-2.35087
+NIS Radar: 2.35087
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7166666
+NIS LiDAR: 1.47441
 --------------- Update with Radar Log ---------------
 Radar data input: 7166666
-2.32013
+NIS Radar: 2.32013
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7200000
+NIS LiDAR: 0.362602
 --------------- Update with Radar Log ---------------
 Radar data input: 7200000
-4.18466
+NIS Radar: 4.18466
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7233333
+NIS LiDAR: 3.72164
 --------------- Update with Radar Log ---------------
 Radar data input: 7233333
-1.01169
+NIS Radar: 1.01169
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7266666
+NIS LiDAR: 4.54246
 --------------- Update with Radar Log ---------------
 Radar data input: 7266666
-0.694598
+NIS Radar: 0.694598
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7300000
+NIS LiDAR: 1.86308
 --------------- Update with Radar Log ---------------
 Radar data input: 7300000
-1.22652
+NIS Radar: 1.22652
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7333333
+NIS LiDAR: 0.937155
 --------------- Update with Radar Log ---------------
 Radar data input: 7333333
-0.507662
+NIS Radar: 0.507662
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7366666
+NIS LiDAR: 1.43302
 --------------- Update with Radar Log ---------------
 Radar data input: 7366666
-1.40106
+NIS Radar: 1.40106
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7400000
+NIS LiDAR: 3.75558
 --------------- Update with Radar Log ---------------
 Radar data input: 7400000
-0.448836
+NIS Radar: 0.448836
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7433333
+NIS LiDAR: 0.82269
 --------------- Update with Radar Log ---------------
 Radar data input: 7433333
-1.99423
+NIS Radar: 1.99423
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7466666
+NIS LiDAR: 0.623161
 --------------- Update with Radar Log ---------------
 Radar data input: 7466666
-1.75119
+NIS Radar: 1.75119
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7500000
+NIS LiDAR: 2.41661
 --------------- Update with Radar Log ---------------
 Radar data input: 7500000
-2.29407
+NIS Radar: 2.29407
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7533333
+NIS LiDAR: 0.983958
 --------------- Update with Radar Log ---------------
 Radar data input: 7533333
-3.97023
+NIS Radar: 3.97023
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7566666
+NIS LiDAR: 0.992151
 --------------- Update with Radar Log ---------------
 Radar data input: 7566666
-0.959965
+NIS Radar: 0.959965
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7600000
+NIS LiDAR: 0.544253
 --------------- Update with Radar Log ---------------
 Radar data input: 7600000
-4.92061
+NIS Radar: 4.92061
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7633333
+NIS LiDAR: 0.315282
 --------------- Update with Radar Log ---------------
 Radar data input: 7633333
-3.56661
+NIS Radar: 3.56661
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7666666
+NIS LiDAR: 4.26368
 --------------- Update with Radar Log ---------------
 Radar data input: 7666666
-3.05765
+NIS Radar: 3.05765
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7700000
+NIS LiDAR: 1.37331
 --------------- Update with Radar Log ---------------
 Radar data input: 7700000
-3.47395
+NIS Radar: 3.47395
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7733333
+NIS LiDAR: 1.98406
 --------------- Update with Radar Log ---------------
 Radar data input: 7733333
-1.20232
+NIS Radar: 1.20232
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7766666
+NIS LiDAR: 3.2397
 --------------- Update with Radar Log ---------------
 Radar data input: 7766666
-2.78726
+NIS Radar: 2.78726
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7800000
+NIS LiDAR: 2.69734
 --------------- Update with Radar Log ---------------
 Radar data input: 7800000
-1.32179
+NIS Radar: 1.32179
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7833333
+NIS LiDAR: 2.85898
 --------------- Update with Radar Log ---------------
 Radar data input: 7833333
-3.94794
+NIS Radar: 3.94794
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7866666
+NIS LiDAR: 3.74325
 --------------- Update with Radar Log ---------------
 Radar data input: 7866666
-4.69086
+NIS Radar: 4.69086
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7900000
+NIS LiDAR: 0.469503
 --------------- Update with Radar Log ---------------
 Radar data input: 7900000
-2.03536
+NIS Radar: 2.03536
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7933333
+NIS LiDAR: 2.32454
 --------------- Update with Radar Log ---------------
 Radar data input: 7933333
-2.27042
+NIS Radar: 2.27042
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 7966666
+NIS LiDAR: 2.00757
 --------------- Update with Radar Log ---------------
 Radar data input: 7966666
-5.40379
+NIS Radar: 5.40379
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8000000
+NIS LiDAR: 3.87268
 --------------- Update with Radar Log ---------------
 Radar data input: 8000000
-4.85892
+NIS Radar: 4.85892
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8033333
+NIS LiDAR: 2.07004
 --------------- Update with Radar Log ---------------
 Radar data input: 8033333
-1.61339
+NIS Radar: 1.61339
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8066666
+NIS LiDAR: 0.322403
 --------------- Update with Radar Log ---------------
 Radar data input: 8066666
-1.78903
+NIS Radar: 1.78903
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8100000
+NIS LiDAR: 1.44962
 --------------- Update with Radar Log ---------------
 Radar data input: 8100000
-5.59035
+NIS Radar: 5.59035
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8133333
+NIS LiDAR: 3.88048
 --------------- Update with Radar Log ---------------
 Radar data input: 8133333
-1.90631
+NIS Radar: 1.90631
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8166666
+NIS LiDAR: 5.02411
 --------------- Update with Radar Log ---------------
 Radar data input: 8166666
-5.7578
+NIS Radar: 5.7578
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8200000
+NIS LiDAR: 0.0427433
 --------------- Update with Radar Log ---------------
 Radar data input: 8200000
-1.6938
+NIS Radar: 1.6938
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8233333
+NIS LiDAR: 1.761
 --------------- Update with Radar Log ---------------
 Radar data input: 8233333
-7.43993
---------------- Update with Radar Log ---------------
+NIS Radar: 7.43993
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8266666
+NIS LiDAR: 5.72292
+--------------- Update wit
+R
 Radar data input: 8266666
-1.75951
+NIS Radar: 1.8721
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8300000
+NIS LiDAR: 1.68218
 --------------- Update with Radar Log ---------------
 Radar data input: 8300000
-6.93645
+NIS Radar: 6.58468
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8333333
+NIS LiDAR: 3.4124
 --------------- Update with Radar Log ---------------
 Radar data input: 8333333
-0.828191
+NIS Radar: 0.752064
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8366666
+NIS LiDAR: 0.781332
 --------------- Update with Radar Log ---------------
 Radar data input: 8366666
-0.271305
+NIS Radar: 0.146465
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8400000
+NIS LiDAR: 2.51063
 --------------- Update with Radar Log ---------------
 Radar data input: 8400000
-0.545644
+NIS Radar: 0.997069
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8433333
+NIS LiDAR: 3.64637
 --------------- Update with Radar Log ---------------
 Radar data input: 8433333
-7.87669
+NIS Radar: 8.21552
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8466666
+NIS LiDAR: 0.64172
 --------------- Update with Radar Log ---------------
 Radar data input: 8466666
-3.07012
+NIS Radar: 3.48744
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8500000
+NIS LiDAR: 1.20158
 --------------- Update with Radar Log ---------------
 Radar data input: 8500000
-0.105351
+NIS Radar: 0.112104
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8533333
+NIS LiDAR: 4.42525
 --------------- Update with Radar Log ---------------
 Radar data input: 8533333
-1.22985
+NIS Radar: 1.42155
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8566666
+NIS LiDAR: 1.44481
 --------------- Update with Radar Log ---------------
 Radar data input: 8566666
-7.66461
+NIS Radar: 5.73385
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8600000
+NIS LiDAR: 0.96713
 --------------- Update with Radar Log ---------------
 Radar data input: 8600000
-1.12452
+NIS Radar: 1.5864
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8633333
+NIS LiDAR: 1.93381
 --------------- Update with Radar Log ---------------
 Radar data input: 8633333
-2.3606
+NIS Radar: 1.49314
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8666666
+NIS LiDAR: 4.90446
 --------------- Update with Radar Log ---------------
 Radar data input: 8666666
-4.38401
+NIS Radar: 3.34197
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8700000
+NIS LiDAR: 4.31946
 --------------- Update with Radar Log ---------------
 Radar data input: 8700000
-0.28708
+NIS Radar: 0.15681
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8733333
+NIS LiDAR: 1.49466
 --------------- Update with Radar Log ---------------
 Radar data input: 8733333
-4.9538
+NIS Radar: 4.42687
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8766666
+NIS LiDAR: 4.6224
 --------------- Update with Radar Log ---------------
 Radar data input: 8766666
-0.121947
+NIS Radar: 0.182722
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8800000
+NIS LiDAR: 0.694758
 --------------- Update with Radar Log ---------------
 Radar data input: 8800000
-1.49073
+NIS Radar: 0.863762
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8833333
+NIS LiDAR: 1.20547
 --------------- Update with Radar Log ---------------
 Radar data input: 8833333
-1.77229
+NIS Radar: 2.59166
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8866666
+NIS LiDAR: 1.01682
 --------------- Update with Radar Log ---------------
 Radar data input: 8866666
-1.7001
+NIS Radar: 1.35627
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8900000
+NIS LiDAR: 5.01258
 --------------- Update with Radar Log ---------------
 Radar data input: 8900000
-3.13051
+NIS Radar: 3.44023
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8933333
+NIS LiDAR: 3.31708
 --------------- Update with Radar Log ---------------
 Radar data input: 8933333
-1.16324
+NIS Radar: 1.765
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 8966666
+NIS LiDAR: 7.84196
 --------------- Update with Radar Log ---------------
 Radar data input: 8966666
-2.82862
+NIS Radar: 3.07439
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9000000
+NIS LiDAR: 1.53363
 --------------- Update with Radar Log ---------------
 Radar data input: 9000000
-2.68689
+NIS Radar: 2.04359
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9033333
+NIS LiDAR: 2.08299
 --------------- Update with Radar Log ---------------
 Radar data input: 9033333
-8.43255
+NIS Radar: 6.88626
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9066666
+NIS LiDAR: 0.18047
 --------------- Update with Radar Log ---------------
 Radar data input: 9066666
-0.804117
+NIS Radar: 1.00269
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9100000
+NIS LiDAR: 0.165503
 --------------- Update with Radar Log ---------------
 Radar data input: 9100000
-2.5757
+NIS Radar: 1.91423
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9133333
+NIS LiDAR: 0.445533
 --------------- Update with Radar Log ---------------
 Radar data input: 9133333
-1.04094
+NIS Radar: 1.34879
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9166666
+NIS LiDAR: 2.1295
 --------------- Update with Radar Log ---------------
 Radar data input: 9166666
-0.601071
+NIS Radar: 1.03529
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9200000
+NIS LiDAR: 7.36488
 --------------- Update with Radar Log ---------------
 Radar data input: 9200000
-1.9589
+NIS Radar: 1.68264
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9233333
+NIS LiDAR: 1.51228
 --------------- Update with Radar Log ---------------
-Radar data input: 333: 
+Radar data input: 9233333
+NIS Radar: 2.93775
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9266666
+NIS LiDAR: 1.08985
+--------------- Update with Radar Log ---------------
+Radar data input: 9266666
+NIS Radar: 1.4723
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9300000
+NIS LiDAR: 0.271875
+--------------- Update with Radar Log ---------------
+Radar data input: 9300000
+NIS Radar: 3.92826
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9333333
+NIS LiDAR: 2.77899
+--------------- Update with Radar Log ---------------
+Radar data input: 9333333
+NIS Radar: 4.5561
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9366666
+NIS LiDAR: 0.435887
+--------------- Update with Radar Log ---------------
+Radar data input: 9366666
+NIS Radar: 0.0548379
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9400000
+NIS LiDAR: 1.65961
+--------------- Update with Radar Log ---------------
+Radar data input: 9400000
+NIS Radar: 1.07222
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9433333
+NIS LiDAR: 1.46685
+--------------- Update with Radar Log ---------------
+Radar data input: 9433333
+NIS Radar: 2.10064
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9466666
+NIS LiDAR: 0.184039
+--------------- Update with Radar Log ---------------
+Radar data input: 9466666
+NIS Radar: 2.81132
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9500000
+NIS LiDAR: 1.71676
+--------------- Update with Radar Log ---------------
+Radar data input: 9500000
+NIS Radar: 0.813578
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9533333
+NIS LiDAR: 3.47923
+--------------- Update with Radar Log ---------------
+Radar data input: 9533333
+NIS Radar: 2.66843
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9566666
+NIS LiDAR: 0.583247
+--------------- Update with Radar Log ---------------
+Radar data input: 9566666
+NIS Radar: 1.11657
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9600000
+NIS LiDAR: 0.0334923
+--------------- Update with Radar Log ---------------
+Radar data input: 9600000
+NIS Radar: 3.95763
+--------------- Update with LiDAR Log ---------------
+LiDAR data input: 9633333
+NIS LiDAR: 0.924669
+--------------- Update with Radar Log ---------------
+Radar data input: 9633333
+NIS Radar: 0.416834
+--------------- Update with LiDAR Log ---------------

@@ -106,28 +106,17 @@ UKF::UKF() {
                         0, std_radphi_*std_radphi_, 0,
                         0, 0,std_radrd_*std_radrd_;
 
+  // NIS logging and debugging
+  std::vector<double> NIS_Lidar_vec;
   std::stringstream ss;
   ss << "UKF_log" << ".txt";
   log_file_ = std::make_shared<std::ofstream>(ss.str(), std::ios::out);
   *log_file_ << "--------------- UKF Log ---------------"<< '\n'<< '\n' << '\n';
-
-  std::stringstream nis_l;
-  nis_l << "nis_l" << ".txt";
-  nis_l_ = std::make_shared<std::ofstream>(nis_l.str(), std::ios::out);
-
-  std::stringstream nis_r;
-  nis_r << "nis_r" << ".txt";
-  nis_r_ = std::make_shared<std::ofstream>(nis_r.str(), std::ios::out);
 }
 
 UKF::~UKF() {}
 
 void UKF::ProcessMeasurement(MeasurementPackage meas_package) {
-
-  // --------------- UKF Log --------------- //
-  // std::ofstream log;
-  // log.open ("UKF_log.txt");
-  // --------------------------------------- //
 
   /**
    * TODO: Complete this function! Make sure you switch between lidar and radar
@@ -289,10 +278,9 @@ void UKF::UpdateLidar(MeasurementPackage meas_package) {
   // Compute and export the NIS (normalized innovation squared) value.
   double nis = z_diff.transpose() * S.inverse() * z_diff;
 
-  // *log_file_ << "--------------- Update with LiDAR Log ---------------" << '\n';
-  // *log_file_ << "LiDAR data input: " << meas_package.timestamp_ << '\n';
-  // *log_file_ << "NIS LiDAR: " << nis << '\n';
-  // *log_file_ << nis << '\n';
+  *log_file_ << "--------------- Update with LiDAR Log ---------------" << '\n';
+  *log_file_ << "LiDAR data input: " << meas_package.timestamp_ << '\n';
+  *log_file_ << "NIS LiDAR: " << nis << '\n';
 }
 
 void UKF::UpdateRadar(MeasurementPackage meas_package) {
@@ -383,8 +371,7 @@ void UKF::UpdateRadar(MeasurementPackage meas_package) {
 
   *log_file_ << "--------------- Update with Radar Log ---------------" << '\n';
   *log_file_ << "Radar data input: " << meas_package.timestamp_ << '\n';
-  // *log_file_ << "NIS Radar: " << nis << '\n';
-  *log_file_ << nis << '\n';
+  *log_file_ << "NIS Radar: " << nis << '\n';
 
   // std::cout << "x_ UpdateRadar" << '\n';
   // std::cout << x_ << '\n';
